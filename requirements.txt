@@ -1,0 +1,5 @@
+# Defining the exact version will make sure things don't break
+recommonmark==0.7.1
+sphinx-markdown-tables==0.0.17
+furo==2023.9.10
+jieba==0.42.1
